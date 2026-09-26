@@ -6,10 +6,10 @@
 **One interaction. One transformation. A completely different navigation experience.**
 
 <p align="center">
-  <a href="LIVE_URL">
+  <a href="https://aaruvibuilds.github.io/aaruvi-builds-menu-series-04/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-7B5CFF?style=for-the-badge&logoColor=white" alt="Live Demo">
   </a>
-  <a href="SOURCE_URL">
+  <a href="https://github.com/aaruvibuilds/aaruvi-builds-menu-series-04">
     <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-17151B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
 </p>
